@@ -12,3 +12,5 @@ The architecture for this network is shown below.
 >**After input words are passed to an embedding layer, the new embeddings will be passed to LSTM cells.**
 >
 >**Finally, the LSTM outputs will go to a sigmoid output layer.**
+
+We'll calculate the loss by comparing the output of the last sigmoid layer at the last time step and the training label (pos or neg).
