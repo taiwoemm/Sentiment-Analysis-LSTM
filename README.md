@@ -13,4 +13,4 @@ The architecture for this network is shown below:
 
 The loss is calculated by comparing the output of the last sigmoid layer at the last time step and the training label (pos or neg).
 
-The project was completed as part of the Deep Learning with PyTorch on Udacity.
+The project was completed as part of the Deep Learning with PyTorch course on Udacity.
